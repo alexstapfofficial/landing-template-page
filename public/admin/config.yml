@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: alexstapf_official/landing-template-page
-  branch: main
+  repo: alexstapfofficial/landing-template
+  branch: page
 
 media_folder: "public/images/uploads"      # wohin Bilder gespeichert werden
 public_folder: "/images/uploads"
